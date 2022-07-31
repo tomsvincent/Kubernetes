@@ -1,7 +1,4 @@
 ---
 namespace: mc-dev
-resources:
-- ./../../base
-- ns-mc-demo.yml
 patchesStrategicMerge:
 - frontend-deployment.yaml
