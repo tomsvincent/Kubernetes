@@ -1,4 +1,5 @@
 ---
+namespace: mc-dev
 resources:
 - ./../../base
 - ns-mc-demo.yml
