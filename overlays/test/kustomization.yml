@@ -3,5 +3,4 @@ namespace: mc-test
 resources:
 - ./../../base
 patchesStrategicMerge:
-- ns-mc-demo.yml
 - frontend-deployment.yaml

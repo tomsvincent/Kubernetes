@@ -1,6 +1,5 @@
 ---
 resources:
-  - ns-mc-demo.yml
   - frontend-deployment.yaml
   - frontend-service.yaml
   - redis-leader-deployment.yaml
