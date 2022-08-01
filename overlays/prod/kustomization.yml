@@ -2,5 +2,6 @@
 namespace: mc-prod
 resources:
 - ./../../base
+- ns-mc-demo.yml
 patchesStrategicMerge:
 - frontend-deployment.yaml
