@@ -1,4 +1,16 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: default
+  name: mc-dev
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mc-test
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mc-prod
