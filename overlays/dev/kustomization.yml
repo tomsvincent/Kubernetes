@@ -1,4 +1,6 @@
 ---
 namespace: mc-dev
+resources:
+- ./../../base
 patchesStrategicMerge:
 - frontend-deployment.yaml
